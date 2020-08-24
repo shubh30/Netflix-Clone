@@ -3,7 +3,7 @@ import axios from './axios';
 import requests from './requests';
 import './Banner.css';
 
-function Banner(props) {
+function Banner() {
   const [movie, setMovie] = useState([]);
 
   useEffect(() => {
