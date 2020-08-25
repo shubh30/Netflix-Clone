@@ -20,12 +20,12 @@ function Nav() {
     <div className={`nav ${show && "nav__black"}`}>
       <img
         className="nav__logo"
-        src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png"
         alt="Netflix Logo"
       />
       <img
         className="nav__avatar"
-        src="https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c23c1.png"
+        src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png"
         alt="Avatar"
       />
     </div>
